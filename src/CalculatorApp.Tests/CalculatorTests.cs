@@ -79,7 +79,5 @@ public class CalculatorTests
     }
 
     //TODO: Test for exceptions
-
     // [GenericNumberInlineData(int.MinValue, -1, int.MinValue)] //silent overflows
-
 }
